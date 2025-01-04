@@ -880,6 +880,7 @@ button {
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
     opacity: 0.3;
     color: #ffffff;
+    padding-left: 16px;
 }
 
 input::placeholder {
@@ -888,7 +889,8 @@ input::placeholder {
     line-height: 2;
     letter-spacing: 0.04em;
     color: #ffffff;
-    padding: 8px 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     opacity: 0.6;
 }
 
